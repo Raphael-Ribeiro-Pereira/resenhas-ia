@@ -1,0 +1,75 @@
+user_001|MarieDupont|reclamacao|L'application plante constamment et c'est très frustrant, je ne peux jamais terminer une conversation complète.
+user_002|JohnSmith|elogio|JetGPT is absolutely amazing! It helped me write my entire thesis introduction in under an hour.
+user_003|SarahJones|reclamacao|The latest update broke voice input completely. I cannot use the app on my commute anymore.
+user_004|MikeBrown|elogio|Best AI assistant I have ever used. The responses are accurate and incredibly fast.
+user_005|CarlosGomez|reclamacao|La aplicación es muy lenta y consume demasiada batería de mi teléfono, por favor arreglen esto.
+user_006|AyseKaya|elogio|Bu uygulama hayatımı değiştirdi, çok teşekkür ederim geliştiricilere.
+user_007|PierreMartin|reclamacao|Trop de publicités intrusives, je ne peux plus utiliser l'application sereinement.
+user_008|AnnaKowalska|elogio|Aplikacja działa świetnie i pomaga mi w nauce języków obcych każdego dnia.
+user_009|IonescuRadu|neutro|Aplikația este în regulă dar nu văd diferențe majore față de alte aplicații similare.
+user_010|GiuliaRossi|elogio|Finalmente un'app di intelligenza artificiale che capisce davvero l'italiano colloquiale.
+user_011|ErikLindberg|reclamacao|Programmet kraschar varje gång jag försöker ladda upp en bild för analys.
+user_012|HansMueller|elogio|Sehr nützliche App für die tägliche Arbeit, ich kann sie nur empfehlen.
+user_013|YukiTanaka|neutro|アプリは普通ですが、日本語の翻訳精度がまだ改善の余地があります。
+user_014|FatimaAlAhmad|reclamacao|التطبيق يستهلك الكثير من البيانات ولا أستطيع استخدامه بدون واي فاي.
+user_015|RaviPatel|elogio|JetGPT has become an essential part of my daily routine, absolutely brilliant work.
+user_016|LucasOliveira|reclamacao|O aplicativo trava demais no meu celular antigo, precisa ser otimizado urgente.
+user_017|EmmaWilson|elogio|Love the new dark mode and the improved response speed, well done team!
+user_018|DimitriosPapas|neutro|Η εφαρμογή είναι αξιοπρεπής αλλά χρειάζεται περισσότερες δωρεάν λειτουργίες.
+user_019|NguyenMinh|reclamacao|Ứng dụng tính phí quá đắt cho phiên bản cao cấp, không đáng giá tiền.
+user_020|OlgaPetrova|elogio|Прекрасное приложение, помогает мне писать электронные письма на английском.
+user_021|JeanLefebvre|reclamacao|Le service client ne répond jamais à mes demandes de remboursement, c'est inacceptable.
+user_022|DavidMiller|elogio|Game changer for content creators, I use it every single day for brainstorming.
+user_023|IsabelGarcia|neutro|La app funciona pero a veces las respuestas son muy genéricas y no muy útiles.
+user_024|TomaszNowak|reclamacao|Aktualizacja zepsuła wszystko, wracam do poprzedniej wersji jeśli to możliwe.
+user_025|RachelGreen|elogio|Honestly the best subscription I have ever paid for, worth every single penny.
+user_026|SophieLaurent|elogio|Incroyable pour répondre à mes questions en français naturel, bravo!
+user_027|MarcoBianchi|reclamacao|Continua a crashare sul mio telefono, è praticamente inutilizzabile per me.
+user_028|JorgeMendoza|elogio|Las respuestas son muy precisas y el modelo parece entender el contexto perfectamente.
+user_029|AysegulKilic|reclamacao|Çok yavaş çalışıyor ve sık sık bağlantı kaybı yaşıyorum.
+user_030|KacperWojcik|elogio|Wreszcie aplikacja która naprawdę rozumie polski, jestem zachwycony.
+user_031|VioletaPopescu|neutro|E o aplicație decenta dar mai are nevoie de optimizare pentru o utilizare mai fluidă.
+user_032|LorenzoBenedetti|elogio|Perfetto per scrivere contenuti in italiano, qualità incredibile.
+user_033|AnnaLindstrom|reclamacao|Gränssnittet är förvirrande och det är svårt att hitta de viktigaste funktionerna.
+user_034|FranzHoffmann|elogio|Unglaublich präzise bei der Analyse von deutschen Texten und Dokumenten.
+user_035|AkiraYamamoto|reclamacao|日本語対応がまだ不完全で、会話が時々意味不明になります。
+user_036|MohamedAkbar|elogio|التطبيق يعمل بشكل رائع مع اللغة العربية بدون مشاكل تذكر.
+user_037|IvanPetrovich|neutro|Приложение работает хорошо но иногда дает ответы которые не совсем релевантны.
+user_038|AlexiaKonstantinou|elogio|Το app είναι εξαιρετικό και η ελληνική γλώσσα υποστηρίζεται πολύ καλά.
+user_039|HuongNguyen|reclamacao|Ứng dụng khá chậm trên các thiết bị di động cũ hơn, rất thất vọng.
+user_040|MatheusFelix|elogio|Excelente aplicativo para trabalhos em português, recomendo muitíssimo!
+user_041|NathalieDuval|reclamacao|L'interface est trop compliquée, même après plusieurs jours je ne comprends pas tous les boutons.
+user_042|AntonioGallagher|elogio|Crystal clear responses in English, this app is miles ahead of the competition.
+user_043|MariadelCarmen|neutro|La aplicación está bien pero le falta más personalización para mis necesidades específicas.
+user_044|ErenAslan|elogio|Türkçe desteği oldukça iyi, konuşma doğal ve anlaşılır hissettiriyor.
+user_045|StanislawKaminski|reclamacao|Często zrywa się połączenie internetowe, tracę postęp w rozmowach.
+user_046|AndreiBaciu|elogio|Funcționează remarcabil de bine în limba română, sunt foarte mulțumit.
+user_047|PaolaMarconi|elogio|Un'esperienza straordinaria, l'app capisce sfumature della lingua italiana.
+user_048|FredrikJonsson|elogio|Oerhörd prestanda och den svenska språkstödet är nästan perfekt nu.
+user_049|KirstenMuller|reclamacao|Das Programm verbraucht viel zu viel Speicher auf meinem Telefon ständig.
+user_050|SatoKaori|elogio|日本語の処理が非常に自然で、まるで本当の人と話しているような感覚です。
+user_051|FadwaAlRashid|neutro|التطبيق جيد لكن قد يحتاج إلى بعض التحسينات في معالجة النصوص الطويلة.
+user_052|SergeyVolkov|elogio|Отличное приложение для написания текстов на русском языке, очень быстрое.
+user_053|GeorgiosPapadopoulos|reclamacao|Το πρόγραμμα συχνά δίνει ανακριβείς απαντήσεις για ελληνικά ερωτήματα.
+user_054|LinhVu|elogio|Ứng dụng hiểu tiếng Việt rất tốt, giúp tôi viết văn bản chuyên nghiệp.
+user_055|CristianeOliveira|neutro|O app funciona mas às vezes demora bastante para processar respostas mais longas.
+user_056|BeatriceBouchard|elogio|Après des mois d'utilisation je confirme, c'est vraiment le meilleur assistant IA en français.
+user_057|ThomasOConnor|reclamacao|The app keeps logging me out randomly, very frustrating when I'm in the middle of work.
+user_058|RosaGonzalez|elogio|Excelente para ayudarme con redacción en español, muy recomendado para escritores.
+user_059|CemTurk|neutro|Uygulamalar iyi işliyor fakat fiyatlandırması biraz pahalı olabilir.
+user_060|UrszulaWasil|elogio|Najlepsze polskie wsparcie jakie widziałem w jakiekolwiek aplikacji AI do tej pory.
+user_061|FloreaMincu|reclamacao|Actualizările sunt prea frecvente și destabilizează aplicația pe telefonul meu.
+user_062|FrancescoRomano|elogio|Incredibile la qualità della rielaborazione testi in italiano, ormai non uso altro.
+user_063|SvenEvaldsson|reclamacao|Varför är det så långsamt att ladda sidor ibland och varför kraschar det ibland.
+user_064|MarkusSchmidt|elogio|Das beste was mir je passiert ist, perfekt für meine Dissertations vorbereitung.
+user_065|HitoshiSato|reclamacao|メモリ使用量が異常に高くて、他のアプリが動作しなくなってしまいます。
+user_066|LamarAbuelnoor|elogio|بشكل صريح هذا أفضل تطبيق AI استخدمته في حياتي كاملة.
+user_067|YuliaKharlamova|neutro|Программа неплохая но для профессиональной работы нужны дополнительные функции.
+user_068|NikosPapadimitriou|elogio|Απλώς εξαιρετικό, καμία άλλη εφαρμογή δεν φτάνει στο επίπεδό του.
+user_069|ThanhLe|reclamacao|Giao diện không trực quan và khó sử dụng cho người mới bắt đầu.
+user_070|PauloSantos|elogio|Aplicativo português que finalmente entende nossa maneira de falar e escrever.
+user_071|JacquelineBrassard|neutro|Correct mais il y a des concurrents qui offrent plus de fonctionnalités gratuites.
+user_072|ChristopherWade|elogio|Legitimately the most impressive AI application I've tested across multiple languages.
+user_073|AndresMonsalve|reclamacao|Demasiados errores en la traducción al español, no es confiable para trabajos importantes.
+user_074|BurhanYilmaz|elogio|Çok etkileyici bir uygulama, Türkçe yazı oluşturmak için harika bir araç.
+user_075|MarcinGajewski|neutro|Aplikacja robi to co obiecuje ale moim zdaniem wymiata konkurencja bardziej.

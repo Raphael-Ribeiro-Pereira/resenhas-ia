@@ -1,0 +1,34 @@
+# Dependências e cache Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# Cache do projeto
+cache_resenhas.json
+resenhas_processadas.json
+
+# IDE e editor
+.vscode/
+.antigravity/
+.idea/
+*.swp
+*.swo
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Python
+venv/
+env/
+*.egg
+
+echo "Documents/" > .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo ".ipynb_checkpoints/" >> .gitignore
+echo "cache_resenhas.json" >> .gitignore
+echo "resenhas_processadas.json" >> .gitignore
